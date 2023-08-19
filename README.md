@@ -1,2 +1,2 @@
-this is another test i am performing 
-this text is coming from test job jenkins
+This is another test I am performing.
+This text is coming from test job Jenkins.
